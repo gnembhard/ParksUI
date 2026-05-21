@@ -1,8 +1,8 @@
-# 🌲 Parks App
+# Parks App
 
 The **Parks App** is an iOS app built with **SwiftUI** that lets users explore U.S. national parks using live data from the **National Parks Service API**.
 
-## 📱 Features
+## Features
 
 ### Core
 - View a list of national parks fetched from the API  
@@ -17,12 +17,12 @@ The **Parks App** is an iOS app built with **SwiftUI** that lets users explore U
 - Search for parks by name  
 
 
-## 🛠️ Built With
+## Built With
 - **SwiftUI** for the user interface  
 - **MapKit** for map integration  
 - **AsyncImage** for remote images  
 - **National Parks Service API** for park data  
 
-## 👤 Developer
+## Developer
 Developed by **[Giovanni Nembhard]**  
 
